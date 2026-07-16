@@ -438,6 +438,61 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table MT Loan - Field TenureMonths - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 3465101217 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MT Loan Payment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Loan Payment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3465101217 - Field 1501936428 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount Paid</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Loan Payment - Field AmountPaid - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3465101217 - Field 2744882662 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EMI Number</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Loan Payment - Field EMINumber - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3465101217 - Field 1016130111 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Loan Payment - Field EntryNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3465101217 - Field 3763036952 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Loan System Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Loan Payment - Field LoanSystemId - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3465101217 - Field 222620933 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Notes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Loan Payment - Field Notes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3465101217 - Field 2481306199 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Owner Entra Object Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Loan Payment - Field OwnerEntraObjectId - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3465101217 - Field 4250709058 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Loan Payment - Field PaymentDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3465101217 - Field 200753951 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Method</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Loan Payment - Field PaymentMethod - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3465101217 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Loan Payment - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3465101217 - Field 1230560945 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction Reference</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Loan Payment - Field TransactionReference - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 1078918886 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>MT Credit Cards</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -537,6 +592,66 @@
           <source>Visa</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Enum MT Credit Card Network - EnumValue Visa - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 173964484 - EnumValue 849597747 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Auto Debit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum MT Loan Payment Method - EnumValue Auto Debit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 173964484 - EnumValue 3234237967 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank Transfer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum MT Loan Payment Method - EnumValue Bank Transfer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 173964484 - EnumValue 4125097576 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum MT Loan Payment Method - EnumValue Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 173964484 - EnumValue 229234099 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cash</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum MT Loan Payment Method - EnumValue Cash - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 173964484 - EnumValue 250070105 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cheque</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum MT Loan Payment Method - EnumValue Cheque - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 173964484 - EnumValue 3448339824 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Other</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum MT Loan Payment Method - EnumValue Other - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 173964484 - EnumValue 2674833328 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>UPI</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum MT Loan Payment Method - EnumValue UPI - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1548699917 - EnumValue 4069904181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cancelled</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum MT Loan Payment Status - EnumValue Cancelled - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1548699917 - EnumValue 789473408 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Paid</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum MT Loan Payment Status - EnumValue Paid - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1548699917 - EnumValue 117404726 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Partially Paid</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum MT Loan Payment Status - EnumValue Partially Paid - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1548699917 - EnumValue 3481143665 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pending</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum MT Loan Payment Status - EnumValue Pending - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1548699917 - EnumValue 2791901420 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Skipped</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum MT Loan Payment Status - EnumValue Skipped - Property Caption</note>
         </trans-unit>
         <trans-unit id="Enum 3903517635 - EnumValue 1090351696 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Active</source>

@@ -24,5 +24,8 @@ permissionset 80100 MTGeneratedPermiSet
         tabledata "MT Loan" = RIMD,
         table "MT Loan" = X,
         page "MT Loans API" = X,
-        page "MT Loan List" = X;
+        page "MT Loan List" = X,
+        tabledata "MT Loan Payment" = RIMD,
+        table "MT Loan Payment" = X,
+        page "MT Loan Payments API" = X;
 }
