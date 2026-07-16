@@ -1,0 +1,594 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="MoneyTracker Pro">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2919742692 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MoneyTracker Account</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Account - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2919742692 - Field 3699788827 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Account Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Account - Field Account Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2919742692 - Field 4198939294 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Account - Field Currency Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2919742692 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Account - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2919742692 - Field 264209779 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Is Default</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Account - Field Is Default - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2919742692 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Account - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2919742692 - Field 222620933 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Notes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Account - Field Notes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2919742692 - Field 1562843158 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Opening Balance</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Account - Field Opening Balance - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2919742692 - Field 1600842959 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Owner Entra Object Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Account - Field Owner Entra Object Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1767486920 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MoneyTracker Budget</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Budget - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1767486920 - Field 2927622491 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Budget Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Budget - Field Budget Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1767486920 - Field 3621808023 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Budget Month</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Budget - Field Budget Month - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1767486920 - Field 3459121014 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Budget Year</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Budget - Field Budget Year - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1767486920 - Field 1435461759 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Category Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Budget - Field Category Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1767486920 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Budget - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1767486920 - Field 222620933 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Notes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Budget - Field Notes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1767486920 - Field 1600842959 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Owner Entra Object Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Budget - Field Owner Entra Object Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1377107195 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MoneyTracker Category</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Category - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1377107195 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Category - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1377107195 - Field 2275574084 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Color Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Category - Field Color Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1377107195 - Field 1926771168 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Display Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Category - Field Display Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1377107195 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Category - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1377107195 - Field 535429760 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Icon Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Category - Field Icon Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1377107195 - Field 986743050 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Is Active</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Category - Field Is Active - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1377107195 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Category - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1377107195 - Field 1600842959 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Owner Entra Object Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Category - Field Owner Entra Object Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1377107195 - Field 3773776616 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Category - Field Transaction Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 599071111 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MoneyTracker Transaction</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Transaction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 599071111 - Field 2711785896 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Account Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Transaction - Field Account Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 599071111 - Field 3856268488 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Account Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Transaction - Field Account Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 599071111 - Field 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Transaction - Field Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 599071111 - Field 3877927551 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Category Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Transaction - Field Category Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 599071111 - Field 1435461759 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Category Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Transaction - Field Category Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 599071111 - Field 4198939294 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Transaction - Field Currency Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 599071111 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Transaction - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 599071111 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Transaction - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 599071111 - Field 222620933 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Notes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Transaction - Field Notes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 599071111 - Field 1600842959 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Owner Entra Object Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Transaction - Field Owner Entra Object Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 599071111 - Field 3855271124 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Method Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Transaction - Field Payment Method Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 599071111 - Field 1221660829 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reference</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Transaction - Field Reference - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 599071111 - Field 1655119827 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Subcategory Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Transaction - Field Subcategory Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 599071111 - Field 548838851 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tags</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Transaction - Field Tags - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 599071111 - Field 775380468 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Transaction - Field Transaction Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 599071111 - Field 3773776616 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Transaction - Field Transaction Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2824305270 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MT Accounts</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MT Account List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3851838778 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MT Budgets</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MT Budget List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 906128485 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MT Categories</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MT Category List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1453854417 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MT Transactions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MT Transaction List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 934654068 - EnumValue 1732083938 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum MT Account Type - EnumValue Bank - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 934654068 - EnumValue 229234099 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cash</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum MT Account Type - EnumValue Cash - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 934654068 - EnumValue 939237833 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Wallet</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum MT Account Type - EnumValue Wallet - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 591995699 - EnumValue 3794360524 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expense</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum MT Category Type - EnumValue Expense - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 591995699 - EnumValue 1957380309 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Income</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum MT Category Type - EnumValue Income - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2810627711 - EnumValue 3794360524 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expense</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum MT Transaction Type - EnumValue Expense - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2810627711 - EnumValue 1957380309 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Income</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum MT Transaction Type - EnumValue Income - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3114445012 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MT Credit Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Credit Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3114445012 - Field 4265414681 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Annual Fee</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Credit Card - Field AnnualFee - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3114445012 - Field 3870150893 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Card Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Credit Card - Field CardName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3114445012 - Field 2332200158 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Card Network</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Credit Card - Field CardNetwork - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3114445012 - Field 3522968116 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Credit Limit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Credit Card - Field CreditLimit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3114445012 - Field 567887726 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Credit Card - Field CurrencyCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3114445012 - Field 2776548924 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Due Day</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Credit Card - Field DueDay - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3114445012 - Field 1016130111 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Credit Card - Field EntryNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3114445012 - Field 1369257920 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Interest Rate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Credit Card - Field InterestRate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3114445012 - Field 3276803522 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Is Active</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Credit Card - Field IsActive - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3114445012 - Field 1933787670 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Issuing Bank</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Credit Card - Field IssuingBank - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3114445012 - Field 3285031622 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last 4 Digits</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Credit Card - Field Last4Digits - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3114445012 - Field 222620933 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Notes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Credit Card - Field Notes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3114445012 - Field 2481306199 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Owner Entra Object Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Credit Card - Field OwnerEntraObjectId - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3114445012 - Field 1513025979 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Statement Day</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Credit Card - Field StatementDay - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3114445012 - Field 437675679 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Supports EMI</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Credit Card - Field SupportsEMI - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 373645415 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MT Loan</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Loan - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 373645415 - Field 567887726 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Loan - Field CurrencyCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 373645415 - Field 3164583167 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EMI Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Loan - Field EMIAmount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 373645415 - Field 1016130111 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Loan - Field EntryNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 373645415 - Field 1369257920 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Interest Rate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Loan - Field InterestRate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 373645415 - Field 4220791949 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lender Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Loan - Field LenderName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 373645415 - Field 37398378 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Loan Account Number</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Loan - Field LoanAccountNumber - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 373645415 - Field 1712455541 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Loan Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Loan - Field LoanName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 373645415 - Field 3576371976 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Loan Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Loan - Field LoanType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 373645415 - Field 222620933 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Notes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Loan - Field Notes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 373645415 - Field 2481306199 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Owner Entra Object Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Loan - Field OwnerEntraObjectId - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 373645415 - Field 583827906 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Principal Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Loan - Field PrincipalAmount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 373645415 - Field 3605153064 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Start Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Loan - Field StartDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 373645415 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Loan - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 373645415 - Field 1389299715 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Supports Prepayment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Loan - Field SupportsPrepayment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 373645415 - Field 3182770082 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tenure (Months)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Loan - Field TenureMonths - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1078918886 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MT Credit Cards</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MT Credit Card List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2697314225 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MT Loans</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MT Loan List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2697314225 - Control 3164583167 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the EMI amount.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MT Loan List - Control EMIAmount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2697314225 - Control 1016130111 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the entry number.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MT Loan List - Control EntryNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2697314225 - Control 1369257920 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the interest rate.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MT Loan List - Control InterestRate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2697314225 - Control 4220791949 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the lender name.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MT Loan List - Control LenderName - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2697314225 - Control 37398378 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the loan account number.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MT Loan List - Control LoanAccountNumber - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2697314225 - Control 1712455541 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the loan name.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MT Loan List - Control LoanName - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2697314225 - Control 3576371976 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the loan type.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MT Loan List - Control LoanType - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2697314225 - Control 2481306199 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the owner.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MT Loan List - Control OwnerEntraObjectId - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2697314225 - Control 583827906 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the principal amount.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MT Loan List - Control PrincipalAmount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2697314225 - Control 3605153064 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the start date.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MT Loan List - Control StartDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2697314225 - Control 513339096 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the status.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MT Loan List - Control Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2697314225 - Control 3182770082 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the tenure in months.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MT Loan List - Control TenureMonths - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Enum 408372138 - EnumValue 1321054635 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amex</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum MT Credit Card Network - EnumValue Amex - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 408372138 - EnumValue 1473745461 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discover</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum MT Credit Card Network - EnumValue Discover - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 408372138 - EnumValue 2562576652 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MasterCard</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum MT Credit Card Network - EnumValue MasterCard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 408372138 - EnumValue 3448339824 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Other</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum MT Credit Card Network - EnumValue Other - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 408372138 - EnumValue 998198569 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>RuPay</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum MT Credit Card Network - EnumValue RuPay - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 408372138 - EnumValue 2862607815 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Visa</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum MT Credit Card Network - EnumValue Visa - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3903517635 - EnumValue 1090351696 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Active</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum MT Loan Status - EnumValue Active - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3903517635 - EnumValue 1778072510 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Closed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum MT Loan Status - EnumValue Closed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4054087519 - EnumValue 1177833522 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Business</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum MT Loan Type - EnumValue Business - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4054087519 - EnumValue 791614854 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Education</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum MT Loan Type - EnumValue Education - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4054087519 - EnumValue 580429820 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Gold</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum MT Loan Type - EnumValue Gold - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4054087519 - EnumValue 477925417 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Home</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum MT Loan Type - EnumValue Home - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4054087519 - EnumValue 689777564 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mortgage</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum MT Loan Type - EnumValue Mortgage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4054087519 - EnumValue 3448339824 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Other</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum MT Loan Type - EnumValue Other - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4054087519 - EnumValue 2758253868 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Personal</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum MT Loan Type - EnumValue Personal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4054087519 - EnumValue 1193173812 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vehicle</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum MT Loan Type - EnumValue Vehicle - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

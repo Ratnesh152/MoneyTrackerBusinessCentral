@@ -1,0 +1,28 @@
+permissionset 80100 MTGeneratedPermiSet
+{
+    Assignable = true;
+    Permissions = tabledata "MT Account" = RIMD,
+        tabledata "MT Transaction" = RIMD,
+        table "MT Account" = X,
+        table "MT Transaction" = X,
+        page "MT Accounts API" = X,
+        page "MT Transactions API" = X,
+        tabledata "MT Budget" = RIMD,
+        tabledata "MT Category" = RIMD,
+        table "MT Budget" = X,
+        table "MT Category" = X,
+        page "MT Account List" = X,
+        page "MT Budget List" = X,
+        page "MT Budgets API" = X,
+        page "MT Categories API" = X,
+        page "MT Category List" = X,
+        page "MT Transaction List" = X,
+        tabledata "MT Credit Card" = RIMD,
+        table "MT Credit Card" = X,
+        page "MT Credit Cards API" = X,
+        page "MT Credit Card List" = X,
+        tabledata "MT Loan" = RIMD,
+        table "MT Loan" = X,
+        page "MT Loans API" = X,
+        page "MT Loan List" = X;
+}
