@@ -36,5 +36,8 @@ permissionset 80100 MTGeneratedPermiSet
         page "MT Recurring Exec. API" = X,
         tabledata "MT Savings Goal" = RIMD,
         table "MT Savings Goal" = X,
-        page "MT Savings Goals API" = X;
+        page "MT Savings Goals API" = X,
+        tabledata "MT Investment" = RIMD,
+        table "MT Investment" = X,
+        page "MT Investments API" = X;
 }
