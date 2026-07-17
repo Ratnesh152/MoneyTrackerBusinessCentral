@@ -138,6 +138,141 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table MT Category - Field Transaction Type - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 2359805206 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MoneyTracker Recurring Execution</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Recurring Execution - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2359805206 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Recurring Execution - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2359805206 - Field 2852966117 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error Message</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Recurring Execution - Field Error Message - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2359805206 - Field 3081330682 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Generated Date Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Recurring Execution - Field Generated Date Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2359805206 - Field 3751474925 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Generated Transaction System Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Recurring Execution - Field Generated Trans. System Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2359805206 - Field 1600842959 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Owner Entra Object Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Recurring Execution - Field Owner Entra Object Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2359805206 - Field 130088879 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Recurring Transaction System Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Recurring Execution - Field Recurring Trans. System Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2359805206 - Field 8752847 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Scheduled Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Recurring Execution - Field Scheduled Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2359805206 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Recurring Execution - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 965718544 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MoneyTracker Recurring Transaction</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Recurring Transaction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 965718544 - Field 2711785896 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Account Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Recurring Transaction - Field Account Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 965718544 - Field 3856268488 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Account Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Recurring Transaction - Field Account Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 965718544 - Field 1090351696 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Active</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Recurring Transaction - Field Active - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 965718544 - Field 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Recurring Transaction - Field Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 965718544 - Field 987929024 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Auto Generate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Recurring Transaction - Field Auto Generate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 965718544 - Field 3877927551 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Category Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Recurring Transaction - Field Category Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 965718544 - Field 1435461759 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Category Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Recurring Transaction - Field Category Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 965718544 - Field 2649176925 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>End Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Recurring Transaction - Field End Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 965718544 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Recurring Transaction - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 965718544 - Field 3964856256 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Frequency</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Recurring Transaction - Field Frequency - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 965718544 - Field 2809088769 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Interval</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Recurring Transaction - Field Interval - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 965718544 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Recurring Transaction - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 965718544 - Field 45335310 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Next Run Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Recurring Transaction - Field Next Run Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 965718544 - Field 222620933 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Notes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Recurring Transaction - Field Notes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 965718544 - Field 1600842959 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Owner Entra Object Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Recurring Transaction - Field Owner Entra Object Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 965718544 - Field 474480784 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Start Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Recurring Transaction - Field Start Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 965718544 - Field 3773776616 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MT Recurring Transaction - Field Transaction Type - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 599071111 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>MoneyTracker Transaction</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -702,6 +837,56 @@
           <source>Vehicle</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Enum MT Loan Type - EnumValue Vehicle - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4279637410 - EnumValue 3826689261 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Failed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum MT Recurring Execution Status - EnumValue Failed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4279637410 - EnumValue 2791901420 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Skipped</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum MT Recurring Execution Status - EnumValue Skipped - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4279637410 - EnumValue 3878926381 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Success</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum MT Recurring Execution Status - EnumValue Success - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4151969864 - EnumValue 167931126 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BiWeekly</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum MT Recurring Frequency - EnumValue BiWeekly - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4151969864 - EnumValue 38359347 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Daily</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum MT Recurring Frequency - EnumValue Daily - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4151969864 - EnumValue 1061167251 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>HalfYearly</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum MT Recurring Frequency - EnumValue HalfYearly - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4151969864 - EnumValue 21616679 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Monthly</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum MT Recurring Frequency - EnumValue Monthly - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4151969864 - EnumValue 3688002211 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quarterly</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum MT Recurring Frequency - EnumValue Quarterly - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4151969864 - EnumValue 1966338867 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Weekly</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum MT Recurring Frequency - EnumValue Weekly - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4151969864 - EnumValue 2683361118 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Yearly</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum MT Recurring Frequency - EnumValue Yearly - Property Caption</note>
         </trans-unit>
       </group>
     </body>
