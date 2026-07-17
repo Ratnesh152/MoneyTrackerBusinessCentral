@@ -27,5 +27,14 @@ permissionset 80100 MTGeneratedPermiSet
         page "MT Loan List" = X,
         tabledata "MT Loan Payment" = RIMD,
         table "MT Loan Payment" = X,
-        page "MT Loan Payments API" = X;
+        page "MT Loan Payments API" = X,
+        tabledata "MT Recurring Transaction" = RIMD,
+        table "MT Recurring Transaction" = X,
+        page "MT Recurring Trans. API" = X,
+        tabledata "MT Recurring Execution" = RIMD,
+        table "MT Recurring Execution" = X,
+        page "MT Recurring Exec. API" = X,
+        tabledata "MT Savings Goal" = RIMD,
+        table "MT Savings Goal" = X,
+        page "MT Savings Goals API" = X;
 }
